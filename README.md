@@ -19,15 +19,15 @@ Our scrum team of for this project consists of 7 members divided as:
 
 Members are:
 
-1. Mr AB: Senior Agile Developer, T-Shaped.
+1. Mr AB: Senior Agile Developer, T-Shaped. **MOST effcient** as front-end BUT can fill other roles
 
-2. Mr XY: Senior Agile Developer, T-Shaped.
+2. Mr XY: Senior Agile Developer, T-Shaped. **MOST effcient** as tester BUT can fill other roles
 
-3. Mr ZZ: Senior Agile Developer, T-Shaped.
+3. Mr ZZ: Senior Agile Developer, T-Shaped. **MOST effcient** as integrator BUT can fill other roles
 
-4. Mr AY: Senior Agile Developer, T-Shaped.
+4. Mr AY: Senior Agile Developer, T-Shaped. **MOST effcient** as back-end BUT can fill other roles
 
-5. Mr IO: Senior Agile Developer, T-Shaped.
+5. Mr IO: Senior Agile Developer, T-Shaped. **MOST effcient** as back-end BUT can fill other roles
 
 ---
 
@@ -60,3 +60,34 @@ After the release is completed, we plan to start expanding by (incrementally, th
 ## Far Vision
 
 The far vision of this product is to evolve our system to support the entire republic of Egypt, supporting millions of users, expanding to the gulf countries, adding all possible categories of products and have a large share of the e-commerce in Egypt and the middle east by having a complex yet rapid order packaging and delivery system that reduces the time between order placement and order delivery. In addition, having a responsive and average-user-friendly application for ease of ordering. 
+
+
+---
+
+## Estimating story points per sprint
+As indicated and supported from part 1, our team on average executed 15 story point per sprint. Stories are ranging from 1 to 3 story points. It’s worth noting that the numbers (1, 3) are relative numbers to our team and not a universal scale. We have found that 1 story point, for our 7-members long-lived team, achieves an average-sized story, while a 3 story points for the longer and more complicated stories. At some point we may need a 5, or even a 7, story point per story depending on the story size but we haven’t met this case yet in out near vision of the project. But, for the current project, the sizes of the stories are relatively close and hence we are sticking to the numbers 1 and 3. More clarification on why exactly we are choosing 1, 3, 5, 7 sequence shortly.
+
+---
+
+## Workflow rules
+
+TO DO: Work of the sprint is waiting to be assigned and started by the assignee.
+
+    Task Assigned: Task has been assigned and work has been started
+
+In Progress: Work is under Development
+
+	Ready for Review: Work has been completed and waiting for approval/rejection
+	Cancel Assignment: Work needs to be reassigned to someone else due to internal reasons.
+Under Review: Code reviewer reviews the completed work and decides whether the work is satisfactory and meets requirements or not.
+
+	Review Approved: Work has been accepted and the story has been completed.
+	Review Rejected: Work has been rejected and the story needs to be modified or reworked.
+Done: The Story is completed.
+
+
+
+
+![Workflow Rules](workflow_rules.png)
+
+---
